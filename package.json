@@ -1,0 +1,19 @@
+{
+  "name": "beta",
+  "version": "1.0.0",
+  "description": "ethereum practice project",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joy Dsouza",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.5.4",
+    "nodemon": "^2.0.2",
+    "truffle-contract": "^4.0.31"
+  }
+}
